@@ -1,7 +1,12 @@
 ## Hi there i am Hazem  👋
 
-I'm a developer passionate about technology. I work on web development using React and Vue for the frontend, and Node, Express, and MongoDB for the backend.
-I also use Figma / canva to create designs that fit perfectly with my projects.
+## A Full-Stack Developer
 
----
-![Word Cloud](https://c4.wallpaperflare.com/wallpaper/1004/573/189/typography-motivational-word-clouds-simple-background-wallpaper-preview.jpg)
+I'm a developer passionate about technology. I work on web development using React and Vue for the frontend, and Node, Express, and MongoDB for the backend. I also use Figma to create designs that fit perfectly with my projects.
+
+![Tech Stack](https://github.com/your-username/your-repo-name/raw/main/images/tech-stack.jpg)
+
+### Languages
+- Arabic 🇸🇦
+- English 🇬🇧
+- German 🇩🇪
